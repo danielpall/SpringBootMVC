@@ -8,7 +8,7 @@ It's also possible to download the project as a .zip [here](https://github.com/d
 
 ## How do I run this ?
 This project is setup using [Maven](https://maven.apache.org/what-is-maven.html) as a dependency manager, so if your IDE does not manage that, or you don't have it installed you can look [here](https://maven.apache.org/install.html) for further information.
-When all the dependencies are downloaded, you can run the project by running the ``main()`` method in the class ``Application``.
+When all the dependencies are downloaded, you can run the project by running the ``main()`` method in the class ``Application`` and then enter "localhost:8080" into the address bar of your favorite web browser.
 
 ## What is going on ?
 Look at the code and find the comments I wrote. I tried explaining what was happening in such a way that it should hopefully be easy to understand.
