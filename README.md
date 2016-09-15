@@ -16,9 +16,6 @@ Look at the code and find the comments I wrote. I tried explaining what was happ
 ### What did you use to make this ?
 I used IntelliJ Ultimate with Maven to setup this project. Students and Teachers get the Ultimate edition for free, apply [here](https://www.jetbrains.com/student/).
 
-### Nothing is working! What can I do ?
-My e-mail is in the course page. Shoot me an e-mail and we'll figure out the problem and solve it.
-
 ### Database
 This project assumes there is a database called HBV at the URL: postgresql://localhost:5432/HBV .   
 See username and password in [application.properties](https://github.com/danielpall/SpringBootMVC/blob/master/src/main/resources/application.properties)
