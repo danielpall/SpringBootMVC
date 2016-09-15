@@ -19,3 +19,9 @@ I used IntelliJ Ultimate with Maven to setup this project. Students and Teachers
 ### Database
 This project assumes there is a database called HBV at the URL: postgresql://localhost:5432/HBV .   
 See username and password in [application.properties](https://github.com/danielpall/SpringBootMVC/blob/master/src/main/resources/application.properties)
+
+### Where can I find help ?
+In case of any questions, please refer to the "Spring Boot Intro" slides in the HBV501G Verkefni folder on Ugla, or contact your tutor.
+
+### Credits
+This skeleton project was originally created by Daníel Páll Jóhannsson while tutoring the HBV501G course in Fall 2015. Daníel has since moved on to work at TM Software. Therefore, please direct any questions to *your own* tutors - thanks :-)
