@@ -19,3 +19,7 @@ I used IntelliJ Ultimate with Maven to setup this project. Students and Teachers
 ### Nothing is working! What can I do ?
 My e-mail is in the course page. Shoot me an e-mail and we'll figure out the problem and solve it.
 
+### Database
+This project runs an internal database while it is running. If the project is restarted, then all data will be reset, i.e. no data will persist between restarts.
+If you look at the [application.properties](https://github.com/danielpall/SpringBootMVC/blob/master/src/main/resources/application.properties) file, you can see how you can direct the project to use your own persistent database. The example shown is aimed at Postgres.
+
