@@ -11,13 +11,10 @@ This project is setup using [Maven](https://maven.apache.org/what-is-maven.html)
 When all the dependencies are downloaded, you can run the project by running the ``main()`` method in the class ``Application`` and then enter [localhost:8080](http://localhost:8080) into the address bar of your favorite web browser.
 
 ## What is going on ?
-Look at the code and find the comments I wrote. I tried explaining what was happening in such a way that it should hopefully be easy to understand.
+Look at the code and find the comments I wrote. I tried explaining what was happening in such a way that it should hopefully be easy to understand. I recommend starting by looking at the [HomeController](https://github.com/danielpall/SpringBootMVC/blob/master/src/main/java/project/controller/HomeController.java#L26).
 
 ### What did you use to make this ?
 I used IntelliJ Ultimate with Maven to setup this project. Students and Teachers get the Ultimate edition for free, apply [here](https://www.jetbrains.com/student/).
-
-### Nothing is working! What can I do ?
-My e-mail is in the course page. Shoot me an e-mail and we'll figure out the problem and solve it.
 
 ### Database
 This project runs an internal database while it is running. If the project is restarted, then all data will be reset, i.e. no data will persist between restarts.
