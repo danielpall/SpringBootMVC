@@ -1,3 +1,5 @@
+# This is very outdated - Expect issues if you try to run this
+
 # SpringBootMVC
 Project skeleton for Software Project class in the University of Iceland.
 
